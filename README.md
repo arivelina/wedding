@@ -39,5 +39,5 @@ Requirement yang dibutuhkan yaitu :
 
 - Cara penggunaan Website, Bisa cek tampilan website di link dibawah ini
   ```
-  https://undagannikah.vercel.app/
+  https://arivelina.github.io/wedding/
   ```
