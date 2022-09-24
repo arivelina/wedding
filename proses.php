@@ -47,6 +47,6 @@ try {
 
 }
           //redirect ke halaman index.php
-        echo "<script>alert('Email berhasil terkirim!');window.location='index.php';</script>";
+        echo "<script>alert('Email berhasil terkirim!');window.location='index.html';</script>";
         
         ?>
